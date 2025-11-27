@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently pursuing a Bachelor of Computer Applications (BCA) at St. Joseph's College (Autonomous), Irinjalakuda.<br>👯 I’m looking to collaborate with Google and contribute to impactful tech projects.<br>🤝 I’m seeking help and guidance to improve my skills as a Front-End Developer.<br>🌱 I’m currently learning and exploring various concepts in Computer Applications.
+🔭 I’m currently pursuing a Bachelor of Computer Applications (BCA) at St. Joseph's College (Autonomous), Irinjalakuda.<br>👯 I’m looking to collaborate with Google and contribute to impactful tech projects.<br>🤝 I’m seeking help and guidance to improve my skills as a Front-End Developer.<br>🌱 I’m currently learning and exploring various concepts in Computer Applications.💬 Ask me about web development, programming basics, or anything tech-related.
+⚡ Fun fact: I learn faster when I break things and fix them again!
 
 
 # 💻 Tech Stack:
